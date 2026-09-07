@@ -33,7 +33,7 @@
 - Caseload by department & complexity (Litigation, Corporate, M&A, Regulatory, etc.)  
 
 ## Clients Page
-![Clients Page](https://github.com/Amit-DataDoc23/Legal_Operation_Analytics/blob/e381c9420a1aa6bd3a21585eb01bc508656edd1c/client_page.png)
+![Clients Page](https://github.com/Amit-DataDoc23/Legal_Operation_Analytics/blob/0513dce1390b6305016eebb3d0f66e1bbbbebd4c/Client.png)
 - Distinct clients: 800
 - Total revenue: €2.80bn, outstanding €773.38M
 - Strategic client profit: €321.19M
